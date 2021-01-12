@@ -1,0 +1,14 @@
+.metadata
+Debug
+.cproject
+.project
+.settings
+a.exe
+.classpath
+.project
+.settings
+bin
+*.class
+*.xml
+target
+*txt
